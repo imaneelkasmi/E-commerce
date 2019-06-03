@@ -1,0 +1,96 @@
+/* navbar */
+
+.bg {
+    background-color: #fff;
+}
+
+a {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.navbar-nav a:hover {
+    color: #28abe3 !important;
+}
+
+#logo {
+    width: 3rem;
+    height: 3rem;
+}
+
+
+/* sidebar */
+
+#Sidebar {
+    background-color: #28abe3;
+    padding-top: 2rem;
+    color: #fff;
+}
+
+
+/* page content */
+
+.page-content {
+    margin-left: 200px;
+    margin-top: 4rem;
+    padding-top: 3rem;
+}
+
+.title {
+    padding-top: 3rem;
+    padding-bottom: 2rem;
+    text-align: center;
+}
+
+
+/*  table  */
+
+.table {
+    border: 2px solid#28abe3;
+}
+
+.thead {
+    background-color: #28abe3;
+}
+
+
+/* insert itmes */
+
+.add-form {
+    padding-left: 15rem;
+    padding-right: 15rem;
+    padding-bottom: 5rem;
+}
+
+.form-group {
+    margin-bottom: 3rem;
+}
+
+#price {
+    display: none;
+}
+
+#import {
+    border: solid 1px #cccccc;
+    border-radius: 3px;
+    padding-right: 24.5rem;
+}
+
+.btn {
+    color: #28abe3;
+    background-color: #ffffff;
+    width: 7rem;
+    border: 1px solid #28abe3;
+}
+
+.btn:hover {
+    background-color: #28abe3;
+}
+
+
+/*  update page  */
+
+.input {
+    background-color: #fff;
+    border: solid 0px;
+}
